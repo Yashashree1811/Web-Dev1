@@ -1,0 +1,11 @@
+{
+  "name": "Web-dev-project",
+  "version": "1.0.0",
+  "description": "JavaScript side of web-Dev project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "License": "ISC"
+}
