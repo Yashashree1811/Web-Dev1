@@ -1,6 +1,6 @@
 {
   "name": "Web-dev-project",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "JavaScript side of web-Dev project",
   "main": "index.js",
   "scripts": {
